@@ -1,0 +1,47 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "url卡片站点"
+  # text: "url卡片站点"
+  tagline: My great project tagline
+  image:
+    src: ./public/vitepress-logo-large.webp
+    alt: VitePress
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
+
+features:
+  - icon:
+      src: https://www.npmmirror.com/cnpm.png
+    title: npmmirror 镜像站
+    link: https://www.npmmirror.com/
+    details: 这是一个完整 npmjs.com 镜像，你可以用此代替官方版本(只读)，我们将尽量与官方服务实时同步。
+  - icon:
+      src: https://www.runoob.com/wp-content/uploads/2013/10/bs.png
+    title: runoob 菜鸟教程
+    link: https://www.runoob.com/
+    details: 菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python,Java,Ruby,C,PHP , MySQL等各种编程语言的基础知识。
+  - icon:
+      src: /bootstrap-stack.png
+    title: Bootstrap 中文文档
+    link: https://www.bootcss.com/
+    details: 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。
+  - icon:
+      src: https://www.infinityfree.com/images/logo-purple.png
+    title: InfinityFree‌ 免费虚拟主机服务
+    link: https://www.infinityfree.com/
+    details: ‌InfinityFree‌是一家提供免费虚拟主机服务的公司，其服务特点包括无限空间、无限流量、托管站点无广告以及提供cpanel面板等强大功能。
+  - icon:
+      src: /bootstrap-stack.png
+    title: FreeWebHostingArea 免费PHP空间
+    link: https://www.freewebhostingarea.com/
+    details: FreeWebHostingArea免费PHP空间，500M存储空间，单个文件限10M以内，不限上传文件类型，每天5G流量限制，FTP、Web方式上传管理文件，支持PHP5、MySQL5、SSI，可自定义404、403错误，提供免费二级域名1个，或者绑定1个你自己的域名，无广告。https://ramses.freewha.com/
+---
+
