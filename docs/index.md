@@ -43,5 +43,15 @@ features:
     title: FreeWebHostingArea 免费PHP空间
     link: https://www.freewebhostingarea.com/
     details: FreeWebHostingArea免费PHP空间，500M存储空间，单个文件限10M以内，不限上传文件类型，每天5G流量限制，FTP、Web方式上传管理文件，支持PHP5、MySQL5、SSI，可自定义404、403错误，提供免费二级域名1个，或者绑定1个你自己的域名，无广告。https://ramses.freewha.com/
+  - icon:
+      src: https://vitepress.qzxdp.cn/vitepress-logo-large.webp
+    title: VitePress 中文网
+    link: https://vitepress.qzxdp.cn/
+    details: VitePress是Vite 和 Vue 强力驱动的静态网站生成器。简单、强大、快速。满足你一直想要的现代SSG框架。
+  - icon:
+      src: https://vitepress.qzxdp.cn/vitepress-logo-large.webp
+    title: 微信文件传输助手网页版
+    link: https://filehelper.weixin.qq.com/
+    details: 使用文件传输助手，手机电脑轻松互传文件。
 ---
 
